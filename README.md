@@ -65,103 +65,69 @@ Here’s the step-by-step journey with checkpoints ✅:
 
 👉 Mini project: Student Record App (typed objects, arrays, functions)
 
-✅ 2. Functions & Objects
+## ✅ 2. Functions & Objects
 
-Function parameters & return types
-
-Optional & default params
-
-Rest params
-
-Object types
-
-Type aliases
-
-Interfaces vs Type aliases
+- Function parameters & return types
+- Optional & default params
+- Rest params
+- Object types
+- Type aliases
+- Interfaces vs Type aliases
 
 👉 Mini project: Calculator with strict function signatures
 
-✅ 3. Classes & OOP
+## ✅ 3. Classes & OOP
 
-Classes, fields, methods
-
-Access modifiers: public, private, protected
-
-readonly & static
-
-Inheritance & abstract classes
-
-Interfaces with implements
+- Classes, fields, methods
+- Access modifiers: public, private, protected
+- readonly & static
+- Inheritance & abstract classes
+- Interfaces with implements
 
 👉 Mini project: Bank Account system (deposit, withdraw, balance)
 
-✅ 4. Advanced Types
+## ✅ 4. Advanced Types
 
-Literal types
-
-Type narrowing (typeof, instanceof, custom guards)
-
-keyof & typeof operators
-
-Index signatures
-
-in operator narrowing
-
-Special types: never, unknown
+- Literal types
+- Type narrowing (typeof, instanceof, custom guards)
+- keyof & typeof operators
+- Index signatures
+- in operator narrowing
+- Special types: never, unknown
 
 👉 Mini project: Shape Area Calculator (circle, rectangle, triangle via discriminated unions)
 
-✅ 5. Generics
+## ✅ 5. Generics
 
-Generic functions
+- Generic functions
+- Generic classes
+- Constraints (extends)
+- Default generics
+- Reusable data structures
 
-Generic classes
+## ✅ 6. Utility Types
 
-Constraints (extends)
+- Partial<T>, Required<T>, Readonly<T>
+- Pick<T>, Omit<T>
+- Record<K, T>
+- ReturnType<T>, Parameters<T>
 
-Default generics
+## ✅ 7. Modules & Config
 
-Reusable data structures
-
-👉 Mini project: Generic Stack / Queue
-
-✅ 6. Utility Types
-
-Partial<T>, Required<T>, Readonly<T>
-
-Pick<T>, Omit<T>
-
-Record<K, T>
-
-ReturnType<T>, Parameters<T>
-
-👉 Mini project: To-Do List app (with Partial for updates)
-
-✅ 7. Modules & Config
-
-ES Modules vs CommonJS
-
-import / export
-
-Path mapping in tsconfig.json
-
-Declaration files (.d.ts)
-
-Ambient modules
+- ES Modules vs CommonJS
+- import / export
+- Path mapping in tsconfig.json
+- Declaration files (.d.ts)
+- Ambient modules
 
 👉 Mini project: Split app into modules (User, Auth, Utils)
 
-✅ 8. Real-World Advanced Usage
+## ✅ 8. Real-World Advanced Usage
 
-Zod with TypeScript → runtime + static validation
+- Zod with TypeScript → runtime + static validation
+- Express + TS → typed routes & middlewares
+- JWT Authentication → secure APIs with token validation
+- Mongoose + TS → typed models & MongoDB queries
+- React + TS → typed components, props, hooks
+- UI Components (Button with Record, variants, cva)
 
-Express + TS → typed routes & middlewares
-
-JWT Authentication → secure APIs with token validation
-
-Mongoose + TS → typed models & MongoDB queries
-
-React + TS → typed components, props, hooks
-
-UI Components (Button with Record, variants, cva)
-```
