@@ -139,8 +139,8 @@ Here’s the step-by-step journey with checkpoints ✅:
 
 ## 🚀 Quick Start (for anyone cloning this repo)
 ```
-git clone <this-repo>
-cd typescript-learning
+git clone https://github.com/priyanshusinghchouhan/Typescript.git
+cd Typescript
 npm install
 npm run dev
 ```
